@@ -8,3 +8,5 @@ You'll see something like below:
 ![alt text](https://github.com/Pierre-123/Async-Learning-Task-Cellular-Automata/blob/main/Follower_MoModified%20view.png "Picture 1")
 
 ![alt text](https://github.com/Pierre-123/Async-Learning-Task-Cellular-Automata/blob/main/Follower_MoModified%20view1.png "Picture 2")
+
+It looks better moving I swear I just dont know how to make gifs of this. Anyways, run it and it looks nice, traffic, trains, lanes, rain, wind- it feels like a lot of things horizontal and vertical.
