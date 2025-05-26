@@ -5,4 +5,6 @@ Essentially the above tldr. I saw in the Art folder of the existing models on Ne
 
 You'll see something like below:
 
-![alt text](https://i.kickstarter.com/assets/044/334/622/3e428cd74bcd44032218dc8953db4dae_original.jpg?anim=false&fit=cover&gravity=auto&height=873&origin=ugc&q=92&v=1710349455&width=1552&sig=Pd5yFczVmELK35tmmLuoL66t7oKEWEA4yczOZFWK0jg%3D "Placeholder")
+![alt text](https://github.com/Pierre-123/Async-Learning-Task-Cellular-Automata/blob/main/Follower_MoModified%20view.png "Picture 1")
+
+![alt text](https://github.com/Pierre-123/Async-Learning-Task-Cellular-Automata/blob/main/Follower_MoModified%20view1.png "Picture 2")
